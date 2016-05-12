@@ -1,0 +1,19 @@
+#-*- coding: utf-8 -*-
+
+if 1 < 2 then
+  puts "aaaaa"
+end
+
+if 1 == 2 then
+  puts "bbbbb"
+end
+
+if 1 == 2 then
+  puts "ccccc"
+else
+  puts "ddddd"
+end
+
+x = 1
+
+if x

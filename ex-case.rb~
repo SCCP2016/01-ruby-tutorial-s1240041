@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+
+loop{
+
+  res = 0
+
+  case a,op,b = STDIN.gets.split(' ')
+
+  when op = ? then
+    break
+
+  else
+    res = a op b
+    puts ' res '
+
+end
+}
